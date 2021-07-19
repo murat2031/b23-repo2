@@ -1,0 +1,7 @@
+Coffee 2.99 150cal
+Doughnut 4.99 1500cal
+
+Mocha 3.14 200cal
+Expresso 3.25 250cal
+
+Iced Coffee 2.88 300cal
